@@ -1,0 +1,14 @@
+{
+  "display_name": "宿主调教系统 · 插件预览",
+  "loading_order": 120,
+  "js": "index.js",
+  "css": "styles.css",
+  "author": "大肥鱼",
+  "version": "0.7.0",
+  "minimum_client_version": "1.13.0",
+  "hooks": {
+    "activate": "onActivate",
+    "disable": "onDisable",
+    "clean": "onClean"
+  }
+}
